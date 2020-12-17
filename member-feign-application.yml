@@ -1,5 +1,5 @@
 member:
-    ser: xxxxxxxxxxxxxxx
+    ser: last
 server:
   port: 10002
 spring:
