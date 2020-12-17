@@ -28,7 +28,7 @@ hystrix:
             maxConcurrnetRequests: 20  #信号量隔离时，默认最大请求书为20
 #          thread:
 #            timeoutInMilliseconds: 4000 #断路器超时时间，默认1000ms
-#
+
 config:
     server: aaaa
 
